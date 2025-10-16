@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PE85NS4000")(type "Legacy")(uri "${KIPRJMOD}/PE85NS4000.lib")(options "")(descr ""))
+  (lib (name "MIC2005")(type "Legacy")(uri "${KIPRJMOD}/MIC2005.lib")(options "")(descr ""))
+)
